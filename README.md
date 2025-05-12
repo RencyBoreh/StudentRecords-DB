@@ -26,6 +26,8 @@ The database schema follows a structured Entity-Relationship Model (ERD):
 Many-to-Many : Students ↔ Courses
 
 1-to-1: Enrollments → Grades
+## ERD Link
+![ER DIAGRAM](https://github.com/RencyBoreh/StudentRecords-DB/blob/aaf0de20d22189ce241c1ce2c8c1ea7d16033faf/StudentRecordER-Diagram.JPG)
 
 -- Technologies Used
 Database: MySQL
