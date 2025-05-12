@@ -31,7 +31,6 @@ Many-to-Many : Students ↔ Courses
 
 -- Technologies Used
 Database: MySQL
-
 ERD Tools: Draw.io
-
+Security Features: User roles, permissions, and audit logging
 SQL Features: Stored Procedures, Indexing, Triggers, Views
